@@ -1,6 +1,8 @@
 html {
   font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
-  font-family: placeholder: this should be the rest of the output you got from Google fonts
+  font-family: font-family: 'Barlow Semi Condensed', sans-serif;
+
+
 }
 
 a {
@@ -8,5 +10,11 @@ a {
 }
 
 h1 {
-  
+  font-family: 'Barlow Semi Condensed', sans-serif;
+
+}
+
+h2 {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+
 }

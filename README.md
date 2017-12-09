@@ -3,6 +3,8 @@
 
 Hour of Code Activity at Contra Costa College, December 9, 2017
 
+![Hour of Code, Contra Costa College, December 9 2017]()
+
 Organized by:
 
 Instructors:

@@ -3,7 +3,7 @@
 
 Hour of Code Activity at Contra Costa College, December 9, 2017
 
-![Hour of Code, Contra Costa College, December 9 2017]()
+![Hour of Code, Contra Costa College, December 9 2017](https://github.com/lisawilliams/2017HourOfCodeContraCosta/blob/master/hourofcodecontracosta2017.jpg?raw=true)
 
 Organized by:
 

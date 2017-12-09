@@ -1,12 +1,8 @@
 html {
-  font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
-  font-family: font-family: 'Barlow Semi Condensed', sans-serif;
-
-
 }
 
 a {
-
+  font-family: 'Barlow Semi Condensed', sans-serif;
 }
 
 h1 {
@@ -17,4 +13,20 @@ h1 {
 h2 {
   font-family: 'Barlow Semi Condensed', sans-serif;
 
+}
+
+p {
+  font-family:'Barlow Semi Condensed', sans-serif;
+}
+
+.classy-text {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 12px;
+  background-color: skyblue;
+
+}
+
+#title {
+  color: slategray;
+  text-decoration: underline dotted red;
 }

@@ -5,23 +5,23 @@ Hour of Code Activity at Contra Costa College, December 9, 2017
 
 ![Hour of Code, Contra Costa College, December 9 2017](https://github.com/lisawilliams/2017HourOfCodeContraCosta/blob/master/hourofcodecontracosta2017.jpg?raw=true)
 
-Organized by students:
+### Organized by students:
 
 Shreejal Luitel and Preston Akubuo Onwuemeka
 
-Speakers
+### Speakers
 
-[Erin Bradner](https://www.autodeskresearch.com/people/erin-bradner), Autodesk
-Tim Reilly, developer, Microsoft, [@timmyreilly](http://twitter.com/timmyreilly)
-    - Tim mentioned a site called [Prosthetic Knowledge](http://prostheticknowledge.com)
+[Erin Bradner](https://www.autodeskresearch.com/people/erin-bradner), Autodesk<br>
+Tim Reilly, developer, Microsoft, [@timmyreilly](http://twitter.com/timmyreilly)<Br>
+    - Tim mentioned a site called [Prosthetic Knowledge](http://prostheticknowledge.com)<br>
 [Gabriel Castillo](https://www.linkedin.com/in/gxxcastillo), Pandora
 
 
-Instructors:
+### Instructors:
 Marc Pare
 
 
-Thank you to our supporters:
+### Thank you to our supporters:
 
 * Contra Costa College for providing space and assistance
 * Autodesk
